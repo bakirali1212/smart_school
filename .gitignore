@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+media/
+# Python cache fayllari
+__pycache__/
+*.pyc
+*.pyo
+
+# Django staticfiles
+staticfiles/
+
+# Django migratsiya fayllari
+*.sqlite3
+db.sqlite3
+migrations/
+
+# Hujjatlar va rasmlar
+*.pptx
+*.pdf
+*.png
+*.ttx
+*.doc
+*.docx
